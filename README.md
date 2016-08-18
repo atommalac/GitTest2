@@ -1,2 +1,2 @@
-# GitTest1
+# GitTest2
 Testing github with VS2015
